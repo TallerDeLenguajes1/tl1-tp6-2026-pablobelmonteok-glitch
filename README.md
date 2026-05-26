@@ -23,4 +23,4 @@ Secuencias de escape Unicode:
 \xH[H][H][H] - Unicode de longitud variable (intervalo: 0 - FFFF). Ejemplo: \xE7, \x0E7 o \x00E7 = "ç"
 
  ¿Qué sucede cuando utiliza el carácter @ y $ antes de una cadena de texto?
- lo que sucede es que @ se usa para hacer una cadena de texto mas limpia mientras que  $ sirve para vincular el valor de alguna varia a travez de {}.
+ lo que sucede es que @ se usa para hacer una cadena de texto mas limpia mientras que  $ sirve para vincular el valor de alguna varia a travez de {}. 
